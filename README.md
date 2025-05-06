@@ -2,7 +2,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-saracynthia5.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saracynthia5@gmail.com)](mailto:saracynthia5@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-saracynthia-grey?style=flat&logo=github&logoColor=white&link=https://github.com/saracynthia/)](https://www.github.com/saracynthia5/)
+[![Github Badge](https://img.shields.io/badge/-saracynthia-grey?style=flat&logo=github&logoColor=white&link=https://github.com/saracynthia/(https://github.com/saracynthia))](https://www.github.com/saracynthia5/)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Sara alt=sara /> </p>
 
 
