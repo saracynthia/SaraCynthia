@@ -6,7 +6,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Sara alt=sara /> </p>
 
 
-> *Hey, hey,cut me some slack. I've got a kid at home.<br>
+> *Hey, hey,cut me some slack. I've got a kid at home...<br>
 > 이봐, 나 좀 풀어줘. 집에 아이가 있어요.<br>
 > Maes Hughes*
 
